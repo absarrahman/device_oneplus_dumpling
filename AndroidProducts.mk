@@ -15,4 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato.mk
+    $(LOCAL_DIR)/aosp_dumpling.mk \
+    $(LOCAL_DIR)/potato_dumpling.mk
